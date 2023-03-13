@@ -1,1 +1,1 @@
-export { trimExtension } from './utils/extension';
+export { trimExtension } from './utils/extension.js';
