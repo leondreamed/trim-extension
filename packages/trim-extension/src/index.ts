@@ -1,1 +1,1 @@
-export { trimExtension as default } from './utils/extension.js';
+export { trimExtension as default } from './utils/extension.js'
